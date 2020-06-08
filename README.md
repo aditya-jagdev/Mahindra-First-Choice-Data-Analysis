@@ -1,4 +1,4 @@
-# Mahindra-First-Choice-Geolocation-Based-Clustering
+# Mahindra First Choice Data Analysis
 
 Project that's focused on customer analysis and market analysis. Includes work on:
   1. Geolocation based clustering
