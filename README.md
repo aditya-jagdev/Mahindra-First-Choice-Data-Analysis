@@ -9,4 +9,4 @@ Project that's focused on customer and market analysis. Includes work on the lin
   * Marketing Recommendation
   * Customer Prediction
   
-Please refer to the PowerPoint presentation for insights and recommendations.
+Please refer to the `PowerPoint presentation` for insights and recommendations.
