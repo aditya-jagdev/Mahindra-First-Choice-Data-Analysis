@@ -1,11 +1,10 @@
 # Mahindra First Choice Data Analysis
 
-Project that's focused on customer analysis and market analysis. Includes work on:
-  1. Geolocation based clustering
-  2. Market Segmentation
-  3. Customer Lifetime Value Prediction
-  4. Inventory Management and Recommendation
-  5. Marketing Recommendation
-  6. Customer Prediction
+Project that's focused on customer and market analysis. Includes work on the lines of:
+  * Geolocation based clustering
+  * Market Segmentation
+  * Inventory Management and Recommendation
+  * Marketing Recommendation
+  * Customer Prediction
   
-This is currently a work in progress. This space is updated as the work progresses.
+Please refer to the PowerPoint presentation for insights and recommendations.
